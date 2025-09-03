@@ -13,6 +13,10 @@ export default function Home() {
   const fullText = 'Mitra Terpercaya Pengiriman Ke Seluruh Indonesia';
 
   // WhatsApp and Phone handlers
+
+  // aku sayang kok sama alfiah pebrianti bangatttt
+
+  
   const handleWhatsAppContact = (serviceType = '') => {
     const whatsappNumber = "6285787014195";
     let message = '';
